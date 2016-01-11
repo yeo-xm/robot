@@ -36,4 +36,4 @@ To watch some training videos, visit http://www.youtube.com/user/c9ide
 ## About this demo
 
 We provide this demo workspace in order for you to experience the power of Cloud9. 
-It contains sample projects for Node.js, PHP, Python, Ruby, and HTML5.
+It contains sample projects for Node.js, PHP, Python, Ruby, and HTML5
